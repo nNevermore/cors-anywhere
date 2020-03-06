@@ -1,1 +1,1 @@
-This is Api. Hello
+This is helper App.
